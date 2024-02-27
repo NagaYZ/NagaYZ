@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Download the stats file
-        run: curl 'https://github-readme-stats-nagayz.vercel.app/api?username=NagaYZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=tru' -o stats.svg
+        run: curl 'https://github-readme-stats-nagayz.vercel.app/api?username=NagaYZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=tru&hide_rank=true' -o stats.svg
 
       - name: Download the top languages file
         run: curl 'https://github-readme-stats-nagayz.vercel.app/api/top-langs/?username=NagaYZ&hide=shell,html,makefile&layout=compact&theme=tokyonight&langs_count=10' -o top-langs.svg
