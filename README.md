@@ -1,7 +1,2 @@
- <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card" style="display: inline-block;">
-    <img src="assets/stats.svg" alt="Github Stats" height="195px" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card" style="display: inline-block;">
-    <img src="assets/top-langs.svg" alt="Most Used Languages" height="195px" />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gamma-three-15.vercel.app/api?show=prs_merged%2Cprs_merged_percentage&hide=stars&include_all_commits=true&theme=tokyonight&username=NagaYZ&show_icons=true&hide_rank=true&hide_border=true" alt="Naga's github stats" height="195px" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gamma-three-15.vercel.app/api/top-langs/?username=NagaYZ&hide=html,css,xslt&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="195px" /></a>
